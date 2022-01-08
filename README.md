@@ -1,2 +1,3 @@
 # 100days_of_Javascript_Template
-Ready to Rage , ......... 
+
+Updated @ Jan8-2022
